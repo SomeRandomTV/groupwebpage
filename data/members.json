@@ -1,0 +1,34 @@
+{
+  "members": [
+    {
+      "name": "Alejandro Rubio",
+      "role": "Project Manager",
+      "email": "alejrubi@ttu.edu"
+    },
+    {
+      "name": "David Escobar",
+      "role": "Lead Developer",
+      "email": "esc67179@ttu.edu"
+    },
+    {
+      "name": "Cameron Williams",
+      "role": "Security + Hardware",
+      "email": "cameron.williams@ttu.edu"
+    },
+    {
+      "name": "Ananyaa Kaushik",
+      "role": "Front-End",
+      "email": "anankaush@ttu.edu"
+    },
+    {
+      "name": "Sarah Gillie",
+      "role": "Front-End",
+      "email": "sgillie@ttu.edu"
+    },
+    {
+      "name": "Jacob Stewart",
+      "role": "Database",
+      "email": "ste93429@ttu.edu"
+    }
+  ]
+}

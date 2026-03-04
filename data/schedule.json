@@ -1,0 +1,24 @@
+{
+  "schedule": [
+    {
+      "date": "March 5, 2026",
+      "title": "Weekly Team Meeting",
+      "description": "Discuss use-cases, UML diagrams"
+    },
+    {
+      "date": "March 10, 2026",
+      "title": "Use-cases/UML diagrams II",
+      "description": "Create UML Diagrams for use-cases and prepare for Sys. Arch."
+    },
+    {
+      "date": "March 12, 2026",
+      "title": "System Architecure Overview",
+      "description": "Discuss how system will work at a high level"
+    },
+    {
+      "date": "March 17, 2026",
+      "title": "Finalize System Architecure",
+      "description": "Finalize System Architecure"
+    }
+  ]
+}

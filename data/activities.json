@@ -1,0 +1,24 @@
+{
+  "activities": [
+    {
+      "title": "Initial Planning Meeting",
+      "date": "January 15, 2026",
+      "description": "Team gathered to discuss project scope, objectives, and deliverables. Assigned initial roles and created timeline."
+    },
+    {
+      "title": "Initial Meeting II",
+      "date": "February 10, 2026",
+      "description": "Further discussed stage1."
+    },
+    {
+      "title": "Code Review Session",
+      "date": "February 12, 2026",
+      "description": "Began writing the report + Work on presentation"
+    },
+    {
+      "title": "Finalize Stage1",
+      "date": "February 16, 2026",
+      "description": "Finished paper and presentation."
+    }
+  ]
+}
