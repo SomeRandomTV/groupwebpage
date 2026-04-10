@@ -19,6 +19,21 @@
       "date": "March 17, 2026",
       "title": "Finalize System Architecure",
       "description": "Finalize System Architecure"
+    }, 
+    {
+      "date": "March 24th 2026",
+      "title": "Begin drawing wire frames and gathering data",
+      "description": "Discussed UI and training + validation data"
+    },
+    {
+      "date": "March 31st 2026",
+      "title": "Discussed Progress",
+      "description": "Discussed where we are in the project"
+    },
+    {
+      "date": "April 7th 2026",
+      "title": "Finalize Stage 2",
+      "description": "Finalized all stage 2 deliverables"
     }
   ]
 }
